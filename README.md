@@ -1,7 +1,7 @@
 # VetResearchLMM
 ## Introduction
 
-**VetResearchLMM** has R  codes and data sets for Linear Mixed Models. An Introduction with applications in Veterinary Research by Duchateau, L. and Janssen, P. and Rowlands, G. J. (1998).
+**VetResearchLMM** has R  codes and data sets for Linear Mixed Models: An Introduction with applications in Veterinary Research by Duchateau, L. and Janssen, P. and Rowlands, G. J.
 
 ## Installation
 Use **devtools** to install the development version from Github:
