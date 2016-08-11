@@ -7,6 +7,7 @@
 Use **devtools** to install the development version from Github:
 
 ```{r}
+if(!require("devtools")) install.packages("devtools")
 devtools::install_github('MYaseen208/VetResearchLMM', build_vignettes = TRUE)
 ```
 ## License
