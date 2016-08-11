@@ -1,4 +1,4 @@
-# Changes in DiallelAnalysisR Version 0.1.1
+# Changes in VetResearchLMM  Version 0.1.0
 ## New Features 
 
-* First version of DiallelAnalysisR: 
+* First version of VetResearchLMM. 
