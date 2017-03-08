@@ -1,7 +1,7 @@
 Package: VetResearchLMM
 Type: Package
 Title: Linear Mixed Models - An Introduction with Applications in Veterinary Research
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: c(
               person(c("Muhammad", "Yaseen"),  email = "myaseen208@gmail.com", role = c("aut", "cre"))
             , person(c("Luc",  "Duchateau"),   email = "Luc.Duchateau@ugent.be", role = "ctb")
@@ -13,6 +13,6 @@ Description: R Codes and Datasets for Duchateau, L. and Janssen, P. and Rowlands
 Depends: R (>= 3.1)
 Imports: ggplot2, lme4, nlme, lmerTest, multcomp
 License: GPL-2
-URL:      
+URL:      https://github.com/MYaseen208/VetResearchLMM
 LazyData: TRUE
-RoxygenNote: 5.0.1.9000
+RoxygenNote: 6.0.1
