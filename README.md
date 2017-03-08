@@ -4,7 +4,16 @@
 **VetResearchLMM** has R  codes and data sets for Linear Mixed Models: An Introduction with applications in Veterinary Research by Duchateau, L. and Janssen, P. and Rowlands, G. J.
 
 ## Installation
-Use **devtools** to install the development version from Github:
+### Stable Version
+Stable version of the package avialabe on CRAN can be installed using:
+
+```{r}
+install.packages('VetResearchLMM')
+```
+
+### Stable Version
+
+Development version of the package avialabe on Github can be installed using:
 
 ```{r}
 if(!require("devtools")) install.packages("devtools")
