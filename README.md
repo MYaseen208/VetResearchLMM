@@ -6,7 +6,7 @@
 ## Installation
 
 ### Stable Version
-Stable version of the package avialabe on [CRAN](https://cran.r-project.org/web/packages/VetResearchLMM/index.html) can be installed using:
+Stable version of the package avialabe on [CRAN](https://cran.r-project.org/package=VetResearchLMM) can be installed using:
 
 ```{r}
 install.packages('VetResearchLMM')
